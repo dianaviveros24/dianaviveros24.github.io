@@ -81,11 +81,11 @@ a:not([href]):not([tabindex]) {
 }
 
 .shape {
-  height: 1px;
-  margin: 0 auto 30px;
+  height: 1.5px;
+  margin: -40px auto 0px;
   position: relative;
-  width: 60px;
-  background-color: #F63854;
+  width: 100%;
+  background-color: #b0bee7;
 }
 
 .padding-none {
@@ -747,18 +747,20 @@ hr {
 3. Hero Area
 ========================================================================== */
 #hero-area {
-  background-image: url(../img/hero-area.svg);
+ /* background-image: url(../img/hero-area.svg);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 650px;
+  background-size: cover;*/
+  color: rgb(255, 255, 255);
+  background-color: #b0bee7;
+  min-height: 120px;
   position: relative;
   overflow: hidden;
-  padding: 180px 0 80px;
+  padding: 120px 0 0px;
 }
 
 #hero-area .contents .head-title {
-  color: #222222;
+  color: #ffffff;
   font-size: 42px;
   font-weight: 700;
   line-height: 60px;
