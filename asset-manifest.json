@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dianaviveros24.github.io/static/css/main.92627a18.chunk.css",
+    "main.js": "/dianaviveros24.github.io/static/js/main.33561176.chunk.js",
+    "main.js.map": "/dianaviveros24.github.io/static/js/main.33561176.chunk.js.map",
+    "runtime-main.js": "/dianaviveros24.github.io/static/js/runtime-main.3d0bc7b9.js",
+    "runtime-main.js.map": "/dianaviveros24.github.io/static/js/runtime-main.3d0bc7b9.js.map",
+    "static/js/2.b3a98492.chunk.js": "/dianaviveros24.github.io/static/js/2.b3a98492.chunk.js",
+    "static/js/2.b3a98492.chunk.js.map": "/dianaviveros24.github.io/static/js/2.b3a98492.chunk.js.map",
+    "static/js/3.47e04e45.chunk.js": "/dianaviveros24.github.io/static/js/3.47e04e45.chunk.js",
+    "static/js/3.47e04e45.chunk.js.map": "/dianaviveros24.github.io/static/js/3.47e04e45.chunk.js.map",
+    "index.html": "/dianaviveros24.github.io/index.html",
+    "static/css/main.92627a18.chunk.css.map": "/dianaviveros24.github.io/static/css/main.92627a18.chunk.css.map",
+    "static/js/2.b3a98492.chunk.js.LICENSE.txt": "/dianaviveros24.github.io/static/js/2.b3a98492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d0bc7b9.js",
+    "static/js/2.b3a98492.chunk.js",
+    "static/css/main.92627a18.chunk.css",
+    "static/js/main.33561176.chunk.js"
+  ]
+}
